@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BF4A16C11FCEBE4500EB1FBD"
-               BuildableName = "SSE.framework"
-               BlueprintName = "SSE"
+               BuildableName = "EventSource.framework"
+               BlueprintName = "EventSource"
                ReferencedContainer = "container:EventSource.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,8 +48,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF4A16C11FCEBE4500EB1FBD"
-            BuildableName = "SSE.framework"
-            BlueprintName = "SSE"
+            BuildableName = "EventSource.framework"
+            BlueprintName = "EventSource"
             ReferencedContainer = "container:EventSource.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +66,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF4A16C11FCEBE4500EB1FBD"
-            BuildableName = "SSE.framework"
-            BlueprintName = "SSE"
+            BuildableName = "EventSource.framework"
+            BlueprintName = "EventSource"
             ReferencedContainer = "container:EventSource.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
